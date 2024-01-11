@@ -1,0 +1,2 @@
+public class Blockade{
+}
