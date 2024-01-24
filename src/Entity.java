@@ -27,7 +27,7 @@ public abstract class Entity{
   }
 
   //default constructor
-  public Entity(Vector2 position, Color color){
+  protected Entity(Vector2 position, Color color){
     this.position = position;
     this.color = color;
   }
